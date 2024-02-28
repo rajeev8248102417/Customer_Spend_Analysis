@@ -1,2 +1,2 @@
 # Customer_Spend_Analysis
- Customer Spend Analysis using clustering involves grouping customers based on their spending patterns and behaviors. This project aims to analyze and understand customer spending habits within a business or retail context.
+ Customer Spend Analysis using clustering involves grouping customers based on their spending patterns and behaviors. This project aims to analyze and understand customer spending habits within a business or retail context.Clustering techniques are employed to segment customers into distinct groups, enabling businesses to tailor their strategies and offerings more effectively.
